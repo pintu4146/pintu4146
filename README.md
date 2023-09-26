@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @pintu4146
 - 👀 I’m interested in web and mobile app development...
-- 🌱 I’m currently learning React JS...
+- 🌱 I’m working as backend developer
+- python and java backend developer
+- fastApi and springboot
 - 💞️ I’m looking to collaborate on web based application...
 - 📫 How to reach me pintoo.star4146@gmail.com
 
