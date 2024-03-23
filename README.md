@@ -3,8 +3,7 @@
 - 🌱 I’m working as backend developer
 - python and java backend developer
 - fastApi and springboot
-- looking for open source AL/ML contribution 
-- 💞️ I’m looking to collaborate on web based application...
+- looking for open source AI/ML contribution 
 - 📫 How to reach me pintoo.star4146@gmail.com
 
 <!---
