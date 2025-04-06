@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @pintu4146
-- 👀 I’m interested in web and mobile app development...
+- 
 - 🌱 I’m working as backend developer
-- python and java backend developer
-- fastApi and springboot
+- Langchain
+- LLM
+- GenAi
+- python 
+- fastApi 
 - looking for open source AI/ML contribution 
 - 📫 How to reach me pintoo.star4146@gmail.com
 
