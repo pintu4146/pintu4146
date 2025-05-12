@@ -8,7 +8,7 @@
 - python 
 - fastApi
 - aws cloud ( EKS, EC2, ECR, IAM, Sagemaker, workflow orchestration using step function,  serverless architecture Lambda function, s3 )
-- looking for open source AI/ML contribution 
+-  open source contributor
 - 📫 How to reach me pintoo.star4146@gmail.com
 
 <!---
